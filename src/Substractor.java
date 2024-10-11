@@ -1,3 +1,3 @@
-public class Subtractor {
+public class Substractor {
 
 }
